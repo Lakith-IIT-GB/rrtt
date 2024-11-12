@@ -109,5 +109,17 @@ def main():
         4. The recipe will include ingredients, measurements, and cooking instructions
         """)
 
+
+        
+        st.markdown("""
+    Made with ❤️ by Team_Cipher_X19
+    
+    **Team Members:**
+    * Lakith
+    * Sahan
+    * Himansa
+    * Dharani
+    """)
+
 if __name__ == "__main__":
     main()
