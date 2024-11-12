@@ -101,7 +101,7 @@ def main():
             logger.error(f"Error processing request: {str(e)}")
 
     # Add helpful instructions
-    with st.expander("ℹ️ How to use"):
+    with st.expander(" How to use this APP"):
         st.markdown("""
         1. Upload a clear image of your ingredients
         2. Wait for the AI to identify the ingredients
@@ -111,7 +111,7 @@ def main():
 
 
         
-        st.markdown("""
+        st.markdown(""" 
     Made with ❤️ by Team_Cipher_X19
     
     **Team Members:**
